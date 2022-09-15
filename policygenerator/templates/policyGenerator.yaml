@@ -15,10 +15,8 @@ policyDefaults:
   severity: medium
   standards:
     - generic
-  placementPath:  
-    - placement.yaml
 policies:
-- name: namespace
+- name: namespacetest
   categories:
     - setup
   controls: 
