@@ -1,2 +1,4 @@
 generators:
   - policyGenerator.yaml
+resources:
+  - deployment.yaml
