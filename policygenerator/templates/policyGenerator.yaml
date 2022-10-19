@@ -10,7 +10,7 @@ policyDefaults:
     - CM Configuration Management
   controls: 
     - CM-2 Baseline Configuration
-  namespace: policies
+  namespace: open-cluster-management-global-set
   remediationAction: enforce
   severity: medium
   standards:
